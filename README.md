@@ -253,7 +253,7 @@ The table shows:
 - Reason
 - Confidence
 
-You can select a row and copy the payload.
+You can select a row and then copy the payload.
 
 ## Backend API
 
@@ -412,6 +412,8 @@ Send the request manually in Repeater first, then right-click after Burp has a r
 - Gemini output quality can vary.
 - No persistent project state.
 - No automatic verification that a payload executes.
+
+  ## To Be.
 
 ## Useful Paths
 
